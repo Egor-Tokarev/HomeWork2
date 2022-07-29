@@ -16,4 +16,7 @@ public class Car {
             System.out.println("Недостаточно мощности, сынок");
         }
     }
+    void carName() {
+        System.out.println("Марка машины:" + auto);
+    }
 }
